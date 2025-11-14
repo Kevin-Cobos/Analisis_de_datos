@@ -57,7 +57,7 @@ INPUT_DATA_FILE = os.path.join(BASE_DIR, 'raw_data_input.csv')
 # ¡¡CRÍTICO!!: Esta ruta y formato (.csv) deben coincidir EXACTAMENTE
 # con el 'file_path' esperado por el Script 2.
 OUTPUT_DATA_FILE = os.path.join(
-    BASE_DIR, 'BTC_KH22_TSNE1h_cortado.csv'
+    BASE_DIR, 'csv_output.csv'
 )
 
 # --- Salidas de Análisis (Artefactos de este script, en Parquet) ---
