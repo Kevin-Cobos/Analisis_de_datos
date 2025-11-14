@@ -103,13 +103,13 @@ Abra el archivo `.py` y modifique las siguientes variables dentro de la función
 1.  **Ruta del Archivo de Entrada (Línea 18):**
     * Modifique `file_path` para que apunte a su archivo CSV de entrada.
     ```python
-    file_path = '/content/drive/MyDrive/Collab/_TERMINAL - Proyecto Cono/02. Dades/BTC_KH22_TSNE1h_cortado.csv'
+    file_path = '/content/input.csv'
     ```
 
 2.  **Ruta del Archivo de Salida (Línea 219):**
     * Modifique `output_file_path` para definir dónde se guardarán los resultados.
     ```python
-    output_file_path = '/content/drive/ubicacion_datos.csv'
+    output_file_path = '/content/drive/output.csv'
     ```
 
 3.  **Listas de Variables (Crítico):**
